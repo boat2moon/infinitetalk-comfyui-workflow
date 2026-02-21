@@ -183,6 +183,17 @@ python run_infinitetalk_batch.py --comfyui-input /path/to/ComfyUI/input
 - [Wan2.1](https://github.com/Wan-Video/Wan2.1) — 万象视频生成模型
 - [LightX2V](https://github.com/ModelTC/lightx2v) — 视频生成加速
 
+## 免责声明
+
+本项目仅供技术研究和学习交流使用。Demo 中使用的人物肖像素材来源于公开网络，仅作为技术演示用途，不代表任何商业用途或对相关人物的任何暗示。
+
+使用者应自行承担使用本工作流生成内容的法律责任，包括但不限于：
+- 未经授权使用他人肖像可能侵犯肖像权
+- 生成虚假或误导性内容可能违反相关法律法规
+- 请勿将生成内容用于欺诈、诽谤或其他非法目的
+
+如有侵权，请联系删除。
+
 ## License
 
 MIT
