@@ -1,8 +1,8 @@
-# InfiniteTalk 春节拜年视频生成工作流
+# InfiniteTalk ComfyUI Workflow — 中文语音驱动口型同步视频生成
 
-基于 [InfiniteTalk](https://github.com/AIMMLab/InfiniteTalk) + [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) 的中文语音驱动拜年视频生成工作流。
+基于 [InfiniteTalk](https://github.com/AIMMLab/InfiniteTalk) + [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) 的中文语音驱动口型同步视频生成工作流。
 
-输入一张参考图片 + 一段中文语音，即可生成 40 秒以上的口型同步拜年视频。本工作流经过多轮参数调优，可在 32GB 显存（如 RTX 5090）上稳定运行。
+输入一张参考图片 + 一段中文语音，即可生成 40 秒以上的口型同步说话视频。本工作流经过多轮参数调优，可在 32GB 显存（如 RTX 5090）上稳定运行。以下 Demo 以春节拜年场景为例。
 
 ## Demo
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-InfiniteTalk Chinese New Year Greeting Video Generator
+InfiniteTalk Batch Video Generator
 
 Batch generates lip-sync videos using InfiniteTalk workflow on ComfyUI.
 Requires ComfyUI running at http://127.0.0.1:8188 with ComfyUI-WanVideoWrapper installed.
@@ -46,7 +46,7 @@ def make_workflow(v, audio_file, num_frames):
             "model_name": "Wan2_1_VAE_bf16.safetensors", "precision": "bf16"}},
         "2": {"class_type": "WanVideoTextEncodeCached", "inputs": {
             "model_name": "umt5-xxl-enc-bf16.safetensors", "precision": "bf16",
-            "positive_prompt": "a person is giving new year greetings, talking naturally",
+            "positive_prompt": "a person is talking naturally",
             "negative_prompt": "bad quality, blurry, distorted face, static, subtitles, worst quality",
             "quantization": "disabled", "use_disk_cache": True, "device": "gpu"}},
         "3": {"class_type": "CLIPVisionLoader", "inputs": {

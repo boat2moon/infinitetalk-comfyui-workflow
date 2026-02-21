@@ -11,7 +11,7 @@
     "inputs": {
       "model_name": "umt5-xxl-enc-bf16.safetensors",
       "precision": "bf16",
-      "positive_prompt": "a person is giving new year greetings, talking naturally",
+      "positive_prompt": "a person is talking naturally",
       "negative_prompt": "bad quality, blurry, distorted face, static, subtitles, worst quality",
       "quantization": "disabled",
       "use_disk_cache": true,
