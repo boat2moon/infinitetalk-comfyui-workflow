@@ -61,10 +61,10 @@ flowchart TD
         C --> VID
     end
 
-    style A fill:#e1f5fe
-    style B fill:#e1f5fe
-    style C fill:#fff3e0
-    style VID fill:#e8f5e9
+    style A fill:#0277bd,color:#fff
+    style B fill:#0277bd,color:#fff
+    style C fill:#e65100,color:#fff
+    style VID fill:#2e7d32,color:#fff
 ```
 
 ## 关键参数
