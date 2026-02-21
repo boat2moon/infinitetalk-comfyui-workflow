@@ -4,19 +4,15 @@
 
 输入一张参考图片 + 一段中文语音，即可生成 40 秒以上的口型同步说话视频。本工作流经过多轮参数调优，可在 32GB 显存（如 RTX 5090）上稳定运行。以下 Demo 以春节拜年场景为例。
 
-## Demo
+## 演示结果
 
-<!-- 将 GitHub user-attachments 视频链接粘贴到下方替换占位符 -->
+https://github.com/user-attachments/assets/afaf152e-ba62-498d-a5d3-8872f8cbf32e
 
-https://github.com/user-attachments/assets/placeholder-demo-1
+https://github.com/user-attachments/assets/93cc96a8-59a2-421c-a7e0-71a4067926d8
 
-https://github.com/user-attachments/assets/placeholder-demo-2
+https://github.com/user-attachments/assets/5d760e2a-ee8c-441f-9965-3b0c5f61898d
 
-https://github.com/user-attachments/assets/placeholder-demo-3
-
-https://github.com/user-attachments/assets/placeholder-demo-4
-
-> 左右对比：原始参考视频 vs InfiniteTalk 生成结果。
+https://github.com/user-attachments/assets/38de67ae-1bd0-4434-b9cd-881f0dfc8819
 
 ## 工作流架构
 
